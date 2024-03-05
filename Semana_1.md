@@ -235,6 +235,37 @@ Cuando se produce una incidencia relacionada con Tecnologías de la Información
 acceso de la incidencia, que lleva a un registro y categorización de la misma. Después, se hace un diagnóstico, que conlleva
 la solución y cierre de la incidencia.
 
+Una vez que se genera una incidencia, se traslada a un técnico, de acuerdo con el tipo o nivel de incidencia en el caso
+concreto, y se asigna de manera directa; dicho técnico diagnostica el problema, identificando la causa que lo genera, y
+trata de resolverlo. En caso de conseguirlo, se cierra la incidencia como solucionada. Si el problema no se puede solucionar,
+se pasa al siguiente grado de soporte, para que se encargue de esa incidencia, contando con la información aportada por
+el grado inferior.
+
+2.2. Almacenamiento de la información
+
+El almacenamiento de datos se refiere al uso de medios de grabación para conservar los datos, mediante ordenadores u otros
+dispositivos. Las formas más frecuentes de almacenamiento de datos son el almacenamiento de archivos, el almacenamiento
+de bloques y el almacenamiento de objetos, siendo cada uno de ellos ideal para diferentes fines.
+
+    Almacenamiento en carpetas: Los datos que son de construcción básica se almacenan en archivos y carpetas. Por lo general,
+    se encuentran en los discos duros y significa que los archivos tienen exactamente el mismo aspecto del disco duro para
+    el usuario.
+
+    Almacenamiento en bloques: Los datos se almacenan en bloques de tamaño uniforme. Aunque es más caro, complejo y menos
+    escalable, el almacenamiento en bloques es ideal para los datos a los que hay que acceder y editar con frecuencia.
+
+    Almacenamiento de objetos: Los datos se almacenan como objetos, con metadatos e identificadores únicos. Aunque generalmente
+    es menos costoso almacenar los datos de esta manera, el almacenamiento de objetos solo es ideal para los datos que no
+    necesitan ser editados.
+
+En términos sencillos, los ordenadores modernos, o terminales, se conectan a dispositivos de almacenamiento directamente
+o a través de una red. Los usuarios dan instrucciones a los ordenadores para que accedan a los datos desde estos dispositivos
+de almacenamiento y los almacenen en ellos. Sin embargo, en un nivel fundamental, hay dos bases para el almacenamiento de
+datos: la forma que adoptan los datos y los dispositivos en los que se registran y almacenan.
+
+Las tecnologías utilizadas para almacenamiento están en permanente cambio; la mejor elección es la que obedezca a las
+necesidades, además de ser productiva, con posibilidades de proyecciones de ampliación y escalabilidad.
+
 ## Redes de datos
 
 ## Procedimiento documental
