@@ -268,6 +268,32 @@ necesidades, además de ser productiva, con posibilidades de proyecciones de amp
 
 ## Redes de datos
 
+Las redes de datos son sistemas diseñados para transferir datos entre dos o más puntos de acceso, mediante el uso de controles
+de sistema, líneas de transmisión y conmutación de datos. Lo que hace que una red de datos sea única con respecto a otros
+tipos de redes es que está configurada para transmitir únicamente datos.
+
+¿Cómo funciona? En general, las redes de datos se definen por su capacidad de transmitir señales mediante la conmutación
+de paquetes. El mensaje de datos se descompone en bits discretos, llamados paquetes, y estos paquetes se envían por una
+red digital que utiliza una ruta óptima para minimizar el retraso en la velocidad de la red de datos. Una vez transmitidos,
+los paquetes de datos se vuelven a ensamblar cuando llegan al destino.
+
+El uso de las redes de datos tiene una amplia gama de ventajas que vale la pena comprender antes de empezar a adoptar este
+enfoque. Para empezar, es útil conocer las tres principales:
+
+    Comunicación: Tal vez la mayor ventaja de utilizar una red de datos es su capacidad para permitir una comunicación rápida
+    y fluida. Los ordenadores conectados a través de una red de datos pueden comunicarse entre sí y transferir archivos
+    sin necesidad de medios físicos de transferencia.
+
+    Colaboración: Una red de datos puede permitir la colaboración sin fisuras entre dos individuos o equipos separados
+    geográficamente. Varios usuarios (conectados a través de una red de datos) pueden trabajar simultáneamente en el mismo
+    proyecto o documento, a distancia.
+
+    Compartir recursos: Una red de datos no requiere una conexión física para compartir información. Esto significa que
+    recursos como Internet, medios de almacenamiento e impresoras pueden ser compartidos entre dos o más nodos.
+
+Finalmente, las redes de datos son procesos de comunicación que están conectados entre sí por equipos físicos que envían
+y reciben impulsos u ondas para el transporte de datos, con el fin de distribuir información y ofrecer servicios.
+
 ## Procedimiento documental
 
 ## Herramientas tecnológicas
