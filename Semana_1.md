@@ -168,9 +168,41 @@ conjunto de instrucciones detalladas, recogidas explícitamente en un manual de 
 Los formularios y cuestionarios contienen la información necesaria tanto para el desarrollador como para el personal de
 procesamiento de datos, y generalmente constan de dos partes:
 
-![Partes de un formulario, cabes y cuerpo, imagen](image-1.png)
+Un encabezado
+
+    El encabezamiento de los formularios o cuestionarios incluye la información necesaria, principalmente, para preparar
+    los archivos de datos adecuados de acuerdo con los objetivos del estudio, definidos por el investigador responsable.
+
+    Puede incluir información para que el investigador pueda recuperar a los sujetos, ya sea para realizar nuevas entrevistas
+    o para comprobar las grabaciones originales.
+
+    Evidentemente, el tipo de ítems de esta parte del formulario o cuestionario varía según la naturaleza del estudio, pero
+    generalmente debe incluir información del tipo especificado.
+
+Un cuerpo
+
+    Se hace necesario solicitar los datos y la información real que se requiera para satisfacer los objetivos del estudio.
+
+    En el cuerpo del formulario, pueden utilizarse tantos campos y dígitos como sean necesarios para completar el registro.
+
+    Sin embargo, siempre es aconsejable consultar con el personal que se encargará del procesamiento y análisis de los datos
+    para evitar problemas relacionados con la gestión de estos.
 
 ## Soporte de análisis de datos
+
+El área de soporte técnico es la encargada de ofrecer ayuda a clientes cuando presentan inconvenientes al usar un producto
+o servicio, tal como un software o hardware en un equipo de cómputo, un servidor de Internet o un dispositivo.
+
+Con el creciente uso de la tecnología en los tiempos modernos, hay una necesidad cada vez mayor de proporcionar soporte
+técnico. Muchas organizaciones ubican sus departamentos de soporte técnico o centros de llamadas en países o regiones con
+costes más bajos. Dell fue una de las primeras empresas en externalizar sus departamentos de soporte técnico y atención
+al cliente a la India, en 2004. También han aumentado las empresas especializadas en ofrecer soporte técnico a otras
+organizaciones.
+
+Para las empresas que necesitan proporcionar soporte técnico, la externalización les permite mantener una alta disponibilidad
+del servicio. Esta necesidad puede ser el resultado de picos en el volumen de llamadas durante el día, periodos de gran
+actividad debido a la introducción de nuevos productos o paquetes de servicios de mantenimiento, o el requisito de proporcionar
+a los clientes un alto nivel de servicio a un bajo costo para la empresa.
 
 ## Redes de datos
 
