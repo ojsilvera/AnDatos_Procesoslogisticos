@@ -146,6 +146,30 @@ Desde la ciencia médica, la educación, la logística, hasta los programas espa
 datos y la información resuelven problemas de la vida real a una velocidad vertiginosa, con sus diversas aplicaciones. Prácticamente,
 no hay límites para sus aplicaciones en las industrias y los beneficios que albergan.
 
+*1.2 Registro de datos:*
+
+El concepto de registro de datos se define como el grupo de información, con cierta correlación, estructurado en una tabla
+conformada por campos, como columnas y filas; el objetivo general de este es poner por escrito y asegurar la conservación
+de los datos recogidos para estudios específicos a desarrollar e implementar dentro de la empresa. Cada estudio o necesidad
+determina los tipos de datos que deben recogerse en función de los objetivos y los recursos disponibles para el mismo.
+
+Los tipos de datos utilizados habitualmente en los estudios suelen estar relacionados con la actividad económica de la
+empresa. Sin embargo, sea cual sea la naturaleza de los tipos de datos, es necesario disponer de formularios o cuestionarios
+adecuados para registrar la información que se va a recoger. A menudo, es conveniente preparar estos formularios o cuestionarios
+por disciplina o tipo de datos. Es preferible el uso de formularios o cuestionarios precodificados, que permitan el registro
+directo de los datos, ya que, con una formación adecuada, su uso suele dar lugar a menos errores. Además, se utilizará un
+solo protocolo o conjunto de formularios para recoger y codificar la información que se registrará en el campo para cada
+unidad de estudio (por ejemplo, familia o individuo).
+
+El objetivo de esta etapa es elaborar todos los formularios y/o cuestionarios necesarios en sus versiones definitivas,
+tal y como se utilizarán sobre el registro de la empresa. Estos formularios y cuestionarios deben ir acompañados de un
+conjunto de instrucciones detalladas, recogidas explícitamente en un manual de codificación.
+
+Los formularios y cuestionarios contienen la información necesaria tanto para el desarrollador como para el personal de
+procesamiento de datos, y generalmente constan de dos partes:
+
+![Partes de un formulario, cabes y cuerpo, imagen](image-1.png)
+
 ## Soporte de análisis de datos
 
 ## Redes de datos
