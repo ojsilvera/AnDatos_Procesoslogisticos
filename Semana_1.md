@@ -204,6 +204,37 @@ del servicio. Esta necesidad puede ser el resultado de picos en el volumen de ll
 actividad debido a la introducción de nuevos productos o paquetes de servicios de mantenimiento, o el requisito de proporcionar
 a los clientes un alto nivel de servicio a un bajo costo para la empresa.
 
+Los tipos de soporte de datos más conocidos son:
+
+Vía telefónica: Es la alternativa más ágil de solucionar cualquier requerimiento que presente el cliente.
+
+Visita en presencia física: Se generan algunos problemas que no pueden solucionarse a distancia. Por lo tanto, existe la
+alternativa de que un experto técnico del área se desplace al domicilio del cliente o al sitio donde esté ubicado el sistema
+objeto de soporte.
+
+Correo o texto a través de un dispositivo o vía remota: Con este sistema, el cliente no deberá estar en espera para contactar
+con un técnico, puede resolver su duda en el chat o en el sitio web y hacerlo en el momento que presente la necesidad.
+
+2.1 Características del soporte
+
+El soporte técnico se suele subdividir en niveles, para poder atender mejor a una empresa o a una base de clientes. El
+número de niveles que una empresa utiliza para organizar su grupo de soporte técnico depende de las necesidades de la empresa,
+en cuanto a su capacidad para atender suficientemente a sus clientes o usuarios.
+
+La razón para proporcionar un sistema de soporte de varios niveles, en lugar de un grupo de soporte general, es proporcionar
+el mejor servicio posible y de la manera más eficiente posible; el éxito de la estructura organizativa depende de que los
+técnicos comprendan su nivel de responsabilidad, sus compromisos de tiempo de respuesta al cliente, cuándo escalar adecuadamente
+un problema y a qué nivel.
+
+Una estructura de soporte común gira en torno a un sistema de soporte técnico de tres niveles, como se comparte en la siguiente
+imagen:
+
+![Niveles de soporte](image-1.png)
+
+Cuando se produce una incidencia relacionada con Tecnologías de la Información, se sigue un proceso que comienza con el
+acceso de la incidencia, que lleva a un registro y categorización de la misma. Después, se hace un diagnóstico, que conlleva
+la solución y cierre de la incidencia.
+
 ## Redes de datos
 
 ## Procedimiento documental
