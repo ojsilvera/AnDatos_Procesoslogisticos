@@ -1,4 +1,4 @@
-# Annalitica de datos en procesos logisticos
+# Analitica de datos en procesos logisticos
 
 Notas sobre el curso corto de Analitica de datos en procesos logisticos, modalidad virtual.
 
