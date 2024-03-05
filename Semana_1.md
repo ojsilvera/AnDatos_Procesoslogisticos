@@ -68,6 +68,84 @@ sus procesos.
 
 ## Análisis de datos
 
+El manejo de los datos, en los últimos años, está revolucionando muchos campos de la empresa, y la analítica logística
+es uno de ellos. La naturaleza compleja y dinámica de la logística, junto con la dependencia de muchas partes móviles que
+pueden crear cuellos de botella en cualquier punto de la cadena de suministro, hacen de la logística un caso de uso perfecto
+para el big data.
+
+El aumento de la cantidad de datos disponibles presenta tanto oportunidades como problemas. En general, disponer de más
+datos sobre los clientes (y los clientes potenciales) debería permitir a las empresas adaptar mejor los productos y los
+esfuerzos de marketing, con el fin de crear mayor nivel de satisfacción y de repetición del negocio. Las empresas que recogen
+una gran cantidad de datos tienen la oportunidad de realizar análisis más profundos y ricos, en beneficio de todas las partes
+interesadas.
+
+Por ejemplo, el big data logístico puede utilizarse para optimizar las rutas, racionalizar las funciones de las fábricas
+y dar transparencia a toda la cadena de suministro, en beneficio tanto de las empresas como de su logística.
+
+El big data en logística requiere una gran cantidad de fuentes de información de alta calidad para funcionar eficazmente.
+¿De dónde van a salir todos esos datos? A continuación, se relaciona una amplia selección de posibles fuentes de datos,
+entre las que se incluyen:
+
+- Datos tradicionales de la empresa
+- Datos de trafico y meteorologicos
+- Diagnostico de vehiculos
+- Previsiones finanacieras del negocio
+- Datos de respuesta publicitaria
+- Datos de patrones de navegacion de sitios web
+- Datos de redes sociales
+
+Es claro que hay muchas formas de alimentar los sistemas de datos con la información que necesitan. Todas estas fuentes
+de datos y casos de uso potenciales han llevado a afirmar que la tecnología de big data y automatización conducirá a niveles
+de optimización antes inimaginables en la fabricación, la logística, el almacenamiento y la entrega de última milla.
+
+Los big data pueden recopilarse a partir de comentarios compartidos públicamente en redes sociales y sitios web, recogidos
+voluntariamente en aparatos electrónicos y aplicaciones personales, mediante cuestionarios, compras de productos y registros
+electrónicos. La presencia de sensores y otras entradas en los dispositivos inteligentes permite recopilar datos en un
+amplio espectro de situaciones y circunstancias. En cualquier caso, parece que el futuro es brillante para las empresas de
+logística que estén dispuestas a aprovechar el big data.
+
+*1.1 información:*
+
+La información son datos cotejados para derivar inferencias significativas según su requisito contextual, que se estructura,
+procesa y presenta con un significado asignado que mejora la fiabilidad de los datos adquiridos, garantizando que no haya
+incertidumbre y que sean pertinentes.
+
+En esencia, la información existe para sistematizar datos relevantes y oportunos para presentar o desarrollar ideas. A
+diferencia de los datos, la información es fundamental, ya que procesa los datos a través de la inteligencia intencionada
+para interpretar, predecir o explicar.
+
+En el siguiente esquema, se comparte la diferencia entre datos e información:
+
+![Diferencia entre datos e informacion, imagen](image.png)
+
+El conocimiento es una información procesada en la mente de su poseedor. Son informaciones personalizadas, que se recogen
+mediante el estudio o las experiencias. El conocimiento también puede verse desde perspectivas diferenciales; de allí, la
+información representa un mensaje con significado que se deriva de los datos, que consisten en un conjunto de registros
+simples, no filtrados y objetivos.
+
+Se presentan algunos elementos que permiten reconocer los datos, la información y el conocimiento.
+
+    Información refinada, estructurada y evolucionada a partir de datos brutos listos para ser analizados.
+
+    La información requiere ser contextualizada para convertirse en conocimiento.
+
+    La información se refiere a un flujo de mensajes.
+
+    La información son datos pero con contexto.
+
+    La información tiene las cualidades de transmitir y comunicar, impactar en los juicios y en el comportamiento.
+
+La ciencia y la tecnología de la información han ganado potencial en términos de transición tecnológica: desde los servidores
+hasta la nube y las bases de datos más inteligentes, los datos se procesan en un abrir y cerrar de ojos. Con la velocidad,
+viene la capacidad de procesar datos, incluso con unidades de hardware de bajo coste, como las SSD (unidades de estado
+sólido), los HDD (discos duros) y los servicios en la nube. Las organizaciones almacenan ahora montones de datos, con la
+esperanza de procesarlos para obtener información que les ayude a tomar decisiones organizativas o a predecir la futura
+fiabilidad de sus productos o servicios en el mercado.
+
+Desde la ciencia médica, la educación, la logística, hasta los programas espaciales, por nombrar algunos escenarios, los
+datos y la información resuelven problemas de la vida real a una velocidad vertiginosa, con sus diversas aplicaciones. Prácticamente,
+no hay límites para sus aplicaciones en las industrias y los beneficios que albergan.
+
 ## Soporte de análisis de datos
 
 ## Redes de datos
