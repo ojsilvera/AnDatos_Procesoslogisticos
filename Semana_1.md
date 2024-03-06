@@ -535,3 +535,21 @@ A continuacion, se describen las principales características de las herramienta
     utiliza sistemas de posicionamiento para rastrear el paradero de un individuo hasta las coordenadas de latitud y longitud,
     o más, prácticamente una dirección física. Tanto los dispositivos móviles como los de escritorio pueden utilizar la
     geolocalización.
+
+5.2 Tipos y usos de software para análisis de datos
+
+El software es un conjunto de instrucciones, datos o programas que se utilizan para hacer funcionar los ordenadores y
+ejecutar tareas específicas. Es lo contrario del hardware, que describe los aspectos físicos de un ordenador. El software
+es un término genérico utilizado para referirse a las aplicaciones, scripts y programas que se ejecutan en un dispositivo,
+Puede considerarse como la parte variable de un ordenador, mientras que el hardware es la parte invariable.
+
+Por ejemplo, el monitor del ordenador que está utilizando para leer este texto y el ratón que está utilizando para navegar
+por esta página web son hardware informático. El navegador de Internet que le permite ver esta página y el sistema operativo
+en el que se ejecuta el navegador se consideran software. Una tarjeta de video es hardware, y un juego de ordenador es
+software. Se puede tocar y sentir la tarjeta de video, y el ordenador la utiliza para desplegar un juego de ordenador,
+pero no se puede tocar ni sentir el código de programación que compone el juego de ordenador.
+
+Los programas de aplicación que ayudan a los usuarios en las tareas habituales de oficina, como la creación, actualización
+y mantenimiento de documentos, el manejo de grandes cantidades de datos, la creación de presentaciones, la programación,
+etc., se denominan herramientas ofimáticas. El uso de herramientas ofimáticas ahorra tiempo y esfuerzo y permite realizar
+fácilmente muchas tareas repetitivas. Algunos de los programas que hacen esto son:
