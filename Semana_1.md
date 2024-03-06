@@ -301,6 +301,69 @@ el cableado de acceso y los nodos de distribución de datos (por ejemplo, enruta
 cableado de acceso y nodos de distribución de datos (por ejemplo, enrutadores, brouters y switches). Los sistemas de
 gestión/control de la red se utilizan para configurar, supervisar, coordinar y controlar los elementos de la red.
 
+![COMPONENTES RED DE DATOS](image-2.png)
+
+La comunicación de datos consiste en la transmisión de mensajes digitales entre dispositivos como ordenadores, teléfonos
+inteligentes, dispositivos móviles, radios y otros. La forma en que se comunican y fluyen los datos en las redes puede
+clasificarse en comunicación "símplex" o "dúplex". Para ampliar lo que representa cada una de ellas, ingrese a las siguientes
+pestañas.
+
+    Comunicación símplex
+
+Los datos solo fluyen en una dirección: del emisor al receptor. Sin embargo, este flujo se convierte en bidireccional
+cuando se trata de una comunicación dúplex, lo que significa que los datos pueden fluir de ida y vuelta entre el emisor
+y el receptor.
+
+    Comunicación dúplex
+
+También puede funcionar en modo full-duplex o half-duplex. En el modo full-duplex, tanto el emisor como el receptor trabajan
+simultáneamente. En el modo half-duplex, solo uno puede funcionar a la vez.
+
+Los avances e innovaciones en la tecnología de las redes de datos han hecho evolucionar continuamente la forma de transmitir
+y recibir datos. Las redes de datos actuales son una verdadera hazaña de ingenio: van desde simples conexiones individuales
+hasta sistemas increíblemente complejos de enrutadores, conmutadores y concentradores de red.
+
+3.2 Tipos y usos de redes de datos
+
+Las redes se configuran con el objeto de transmitir datos de un sistema a otro o de contar con recursos en común, como
+servidores, bases de datos o impresoras. En función del tamaño y del alcance de la red de computadoras, se puede demostrar
+una diferenciación entre distintas magnitudes de red.
+
+A continuación, se describen los tipos de redes más relevantes que se encuentran y sus usos:
+
+PAN (red de área personal) - Es un modelo de red de comunicación diseñado para intercambio de datos con tecnología moderna,
+principalmente, para portátiles, tabletas, equipos de cómputo, impresoras, celulares, con el requisito de estar cerca al
+punto de conexión o acceso.
+
+LAN (red de área local) - Puede llegar hasta un radio de 1 KM. Se trata de un grupo de ordenadores y dispositivos asociados,
+que comparten una línea de comunicaciones común o un enlace inalámbrico con un servidor. Normalmente, una LAN engloba
+ordenadores y periféricos conectados a un servidor dentro de una zona geográfica definida, como una oficina o un establecimiento
+comercial.
+
+WAN (red de área amplia) - Sin límite. Es una red que existe en un área geográfica a gran escala. Una WAN conecta diferentes
+redes más pequeñas, incluidas las redes de área local (LAN) y las redes de área metropolitana (MAN). Esto garantiza que
+los ordenadores y usuarios de un lugar puedan comunicarse con los de otros lugares. La implementación de la WAN puede hacerse
+con la ayuda del sistema público de transmisión o de una red privada.
+
+SAN (Red de área de almacenamiento) - Es la mejor opción, ofrece gran velocidad y rendimiento. Está compuesta por dispositivos,
+hosts y conmutadores de almacenamiento, que son conectados a través de distintos protocolos. La disponibilidad de este
+tipo de red es casi total, dado que los datos que almacena en bloque hacen que se entreguen los recursos de manera eficaz.
+
+MAN (red de área metropolitana) - Es una red informática que interconecta a los usuarios con los recursos informáticos de
+un área geográfica o región mayor que la que cubre, incluso una gran red de área local (LAN), pero menor que el área que
+cubre una red de área amplia (WAN). El término se aplica a la interconexión de las redes de una ciudad en una única red
+más grande (que luego puede ofrecer también una conexión eficaz a una red de área amplia). También se utiliza para referirse
+a la interconexión de varias redes de área local mediante puentes con líneas troncales. Este último uso también se denomina
+a veces red de campus.
+
+El empalme físico en el que se fundamentan dichos tipos de redes puede manifestarse mediante cables o implementarse con
+tecnología inalámbrica. Comúnmente, las redes físicas componen la base para algunas redes lógicas de comunicación, denominadas
+Virtual Private Networks (VPN). Se usan para la transmisión de datos, a través de medios como la fibra óptica, y se vinculan
+de manera lógica a diversos tipos de redes virtuales mediante un programa o software.
+
+Cada uno de los diferentes tipos de redes está diseñado para ámbitos de aplicación particulares, se basan en técnicas y
+estándares propios y plantean ventajas y restricciones variadas.
+
 ## Procedimiento documental
 
 ## Herramientas tecnológicas
