@@ -294,6 +294,13 @@ enfoque. Para empezar, es útil conocer las tres principales:
 Finalmente, las redes de datos son procesos de comunicación que están conectados entre sí por equipos físicos que envían
 y reciben impulsos u ondas para el transporte de datos, con el fin de distribuir información y ofrecer servicios.
 
+3.1 Características de redes de datos
+
+Una red de datos se compone de varias partes clave, como los terminales de datos (por ejemplo, ordenadores personales),
+el cableado de acceso y los nodos de distribución de datos (por ejemplo, enrutadores y conmutadores), adaptadores de red,
+cableado de acceso y nodos de distribución de datos (por ejemplo, enrutadores, brouters y switches). Los sistemas de
+gestión/control de la red se utilizan para configurar, supervisar, coordinar y controlar los elementos de la red.
+
 ## Procedimiento documental
 
 ## Herramientas tecnológicas
