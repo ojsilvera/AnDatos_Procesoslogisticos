@@ -446,3 +446,92 @@ la creación de un sistema de gestión de documentos implica tres pasos:
     instante.
 
 ## Herramientas tecnológicas
+
+Según una definición global, una herramienta tecnológica es cualquier "software" o "hardware" que ayuda a realizar bien
+una tarea, entendiéndose por "realizar bien" que se obtenga los resultado esperados, con ahorro de tiempo y ahorro en
+recursos personales y económicos.
+
+La implementación de herramientas tecnológicas en las organizaciones puede contribuir a incrementar la productividad de
+sus negocios, perfeccionando la efectividad de sus procesos y ubicando la compañía en un estado de innovación permanente,
+capaz de ajustarse a las necesidades de los clientes y posicionarse en un mercado cada vez más amplio y competitivo. Para
+lograr una transformación digital y aceptación positiva de la nueva situación, los directivos tienen que estar expectantes
+de los adelantos tecnológicos que ofrece el mercado.
+
+Hay muchas opciones de tecnología, herramientas y plataformas que ayudarán a hacer crecer las empresas. Una vez se identifique
+lo que se quiere lograr, se debe tener en cuenta cuál es la mejor opción para su implementación .
+
+5.1 Características de las herramientas tecnológicas
+
+A continuacion, se describen las principales características de las herramientas usadas en el entorno empresarial:
+
+*ERP:*
+
+    la planificación de recursos empresariales es un proceso utilizado por las empresas para gestionar e integrar las
+    partes importantes de sus negocios. Muchas aplicaciones de software ERP son importantes para las empresas, porque les
+    ayudan a implementar la planificación de recursos integrando todos los procesos necesarios para dirigir sus empresas con
+    un único sistema. Un sistema de software ERP también puede integrar la planificación, el inventario de compras, las ventas,
+    el marketing, las finanzas, los recursos humanos, entre otros.
+
+*CRM:*
+
+    se puede traducir al español como Gestión de las Relaciones con los Clientes y se refiere a todas las estrategias,
+    técnicas, herramientas y tecnologías utilizadas por las empresas para desarrollar, retener y adquirir clientes. Este
+    software garantiza que cada paso de la interacción con los consumidores se desarrolle de forma fluida y eficaz, para
+    aumentar los beneficios globales. El software recopila datos de los clientes, procedentes de múltiples canales. Por
+    lo tanto, el CRM almacena información detallada sobre el historial general de compras, información personal e incluso
+    patrones de comportamiento de compra.
+
+*Herramientas BI:*
+
+    la inteligencia empresarial se refiere a la infraestructura técnica y de procedimiento que recoge, almacena y analiza
+    los datos producidos por las actividades de una empresa. BI es un término amplio, que engloba la extracción de datos,
+    el análisis de procesos, la evaluación comparativa del rendimiento y el análisis descriptivo. La BI analiza todos los
+    datos generados por una empresa y presenta informes fáciles de digerir, medidas de rendimiento y tendencias que informan
+    las decisiones de gestión.
+
+*SGA:*
+
+    un Sistema de Gestión de Almacenes ofrece un conjunto de funciones y servicios que abordan un conjunto completo de
+    operaciones de almacén. Aunque cada SGA puede proporcionar diferentes servicios de nivel secundario, las características
+    principales de un SGA se centran en la gestión del inventario. Un SGA típico puede ofrecer funciones como la gestión
+    de los registros de inventario, los detalles de los envíos de inventario, la ubicación de las existencias dentro del
+    almacén y la gestión de la capacidad general del almacén. El SGA suele formar parte de una solución de software de
+    planificación de recursos empresariales (ERP), pero también puede ser una aplicación independiente. Además, un SGA
+    suele integrarse directamente con otros sistemas de información, como el sistema de gestión de la cadena de suministro,
+    el sistema de información de producción/fabricación y los sistemas de información de ventas.
+
+*La facturación electrónica:*
+
+    o el pago y la presentación de facturas electrónicas, es cuando un vendedor, una empresa, una organización o un grupo
+    envía sus cuentas o facturas a través de Internet, y los clientes pagan las facturas electrónicamente. Esto sustituye
+    el método tradicional, en el que las facturas se enviaban en papel y los pagos se hacían por medios manuales, como el
+    envío de cheques.
+
+    La facturación electrónica tiene una serie de ventajas, como la rapidez en la presentación de las facturas y la reducción
+    de los costes de manipulación de los documentos en papel. Sin embargo, para aprovechar al máximo las ventajas de la
+    facturación electrónica, tanto el vendedor como el comprador deben disponer de sistemas informáticos capaces de gestionar
+    la facturación electrónica y tener acceso a instituciones financieras que puedan realizar pagos electrónicos.
+
+*Una aplicación móvil, más comúnmente conocida como app:*
+
+    es un tipo de software de aplicación diseñado para ejecutarse en un dispositivo móvil, como un smartphone o una
+    ableta. Las aplicaciones móviles suelen servir para ofrecer a los usuarios servicios similares a los de los ordenadores,
+    Las apps suelen ser pequeñas unidades de software individuales, con funciones limitadas. Este uso del software de
+    aplicaciones fue popularizado originalmente por Apple Inc. y su App Store, que ofrece miles de aplicaciones para el
+    iPhone, el iPad y el iPod Touch.
+
+    Una aplicación móvil también puede ser conocida como app, web app, online app, iPhone app o smartphone app.
+
+    Las aplicaciones móviles se alejan de los sistemas de software integrados que suelen encontrarse en los PC. En su lugar,
+    cada app ofrece una funcionalidad limitada y aislada, como un juego, una calculadora o la navegación web móvil. Aunque
+    las aplicaciones pueden haber evitado la multitarea debido a los limitados recursos de hardware de los primeros
+    dispositivos móviles, su especificidad es ahora parte de su atractivo, porque permite a los consumidores elegir a dedo
+    lo que sus dispositivos son capaces de hacer.
+
+*Sistema de geolocalización:*
+
+    es la capacidad de rastrear la ubicación de un dispositivo utilizando el GPS, las torres de telefonía móvil, los puntos
+    de acceso WiFi o una combinación de ellos. Dado que los dispositivos son utilizados por individuos, la geolocalización
+    utiliza sistemas de posicionamiento para rastrear el paradero de un individuo hasta las coordenadas de latitud y longitud,
+    o más, prácticamente una dirección física. Tanto los dispositivos móviles como los de escritorio pueden utilizar la
+    geolocalización.
