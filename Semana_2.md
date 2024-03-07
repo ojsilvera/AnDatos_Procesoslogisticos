@@ -33,7 +33,12 @@ el proceso de la planeación de la administración en 10 actividades de registro
     Analizar el contenido de la organizacion
     Desarrollar un plan de archivos
     Desarollar programaciones de retencion
-    evaluar y mejorar los procedimientos de administracion de documentos
+    Evaluar y mejorar los procedimientos de administracion de documentos
+    Diseñar la solucion de administracion de registros
+    Planear como el contenido se convierte em registros
+    Planear la integracion de correo electronico
+    Planear el cumplimiento del contenido social
+    Planear la documentacion y los informes de conformidad
 
 la primera es identificar roles de administración de registros: una administración de registro satisfactoria requiere roles
 especializados tales como:
@@ -47,10 +52,39 @@ La segunda es analizar el contenido de la organización: antes de crear un plan 
 y los administradores de contenidos realizan una encuesta o un estudio sobre el uso de documentos en la organización y
 determinan qué documentos y qué elementos pueden convertirse en registro.
 
-La tercera un plan de archivos: una vez analizado el contenido de la organización y determinada las programaciones de
+La tercera, un plan de archivos: una vez analizado el contenido de la organización y determinada las programaciones de
 retención de contenido, los planes se describen en qué elementos la empresa reconoce como registros, donde irán almacenados,
 describen los periodos de retención y proporcionan información adicional de los criterios para establecer una persona encargada
 o responsable de la administración.
+
+La cuarta es, desarrollar programación de retención: para cada tipo de registro determine cuándo se va a dejar de estar
+el archivo - o cuánto tiempo debe conservarse después y como debería eliminarse al final, aquí tendremos en cuenta la
+normatividad vigente para guardar información.
+
+La quinta es, evaluar y mejorar los procedimientos de administración: asegurarse de que se apliquen las directivas obligatorias
+en los repositorios de documentos, un ejemplo seria que el contenido que se utilice correctamente pueda observarse junto
+con todos sus registros en el momento que sea requerido por alguna entidad estatal o por la misma empresa para alguna
+información
+
+La sexta es, diseñar la solución de administración de registros: aquí se determina si se va a crear un archivo de registros
+para administrar los archivos en el contexto o si se usa una combinación de dos o más métodos.
+
+La septima, planear como el contenido se convierte en registros: la administración de registros puede crear flujos de trabajo
+personalizados para mover documentos a un archivo de registros, si usa un sistema de administración de documentos externos
+puede planear y desarrollar interfaces que muevan el contenido de estos sistemas al archivo de registros, que declaren
+un documento como un registro y no muevan el documento.
+
+La octava, planear la integración del correo electrónico: acá determinar si va a administrar registros de correo electrónico
+el sistema o si se van a administrar los registros dentro de la propia aplicación del correo electrónico.
+
+La novena, planear el cumplimiento el contenido social: aquí la organización usa medios sociales como blogs sitios wikis
+o medios que determine cómo se convertiría este registro a través de qué medio.
+
+La decima, plantear la documentación y los informes de conformidad: para comprobar si la organización realiza los procedimientos
+de administración de registros obligatorios y para comunicar estos procedimientos debe documentar los planes y procesos de
+administración de registros si la empresa participa en procesos judiciales relacionados con registros es posible que requiera
+dar instrucciones de administración especiales para su implementación, en el caso de colombia debemos tener en cuenta las
+políticas que hay con el manejo de la confianza y la confidencialidad de la información.
 
 ## Estadística descriptiva
 
