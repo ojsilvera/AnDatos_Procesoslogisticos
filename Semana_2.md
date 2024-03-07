@@ -160,6 +160,22 @@ personas u otras unidades.
 
 1.1 Medidas de tendencia
 
+Las medidas de tendencia central se definen como una estimación del centro de una distribución de valores. Hay tres tipos
+principales de estimaciones de la tendencia central:
+
+- La media o promedio
+
+Es probablemente el método más utilizado para describir la tendencia central. Para calcular la media lo único que hay que
+hacer es sumar todos los valores y dividirlos por el número de valores. Por ejemplo, la media o promedio de la puntuación
+de un examen se determina sumando todas las puntuaciones y dividiéndolas por el número de estudiantes que se presentan al
+examen.
+
+    Por ejemplo, considere los valores de la puntuación del examen:
+
+    15, 20, 21, 20, 36, 15, 25, 15
+
+    La suma de estos 8 valores es 167, por lo que la media es 167/8 = 20,875
+
 ## Instrumentos de validación
 
 ## Confidencialidad de la información
