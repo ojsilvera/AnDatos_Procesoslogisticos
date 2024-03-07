@@ -553,3 +553,76 @@ Los programas de aplicación que ayudan a los usuarios en las tareas habituales 
 y mantenimiento de documentos, el manejo de grandes cantidades de datos, la creación de presentaciones, la programación,
 etc., se denominan herramientas ofimáticas. El uso de herramientas ofimáticas ahorra tiempo y esfuerzo y permite realizar
 fácilmente muchas tareas repetitivas. Algunos de los programas que hacen esto son:
+
+*Procesador de texto:*
+
+    Un software para crear, almacenar y manipular documentos de texto. Algunos procesadores de texto comunes son MS-Word,
+    AbiWord, WordPerfect, Google docs, etc.
+
+    Un procesador de textos le permite:
+
+        Crear, guardar y editar documentos.
+        Formatear las propiedades del texto, como la fuente, la alineación, el color de la fuente, el color de fondo, etc.
+        Revisar la ortografía y la gramática.
+        Añadir imágenes.
+        Añadir cabeceras y pies de página, establecer márgenes de página e insertar marcas de agua.
+
+*Hoja de calculo:*
+
+    La hoja de cálculo es un software que ayuda a los usuarios a procesar y analizar datos tabulares. Es una herramienta
+    informática de contabilidad. Los datos se introducen siempre en una celda (intersección de una fila y una columna),
+    y es fácil disponer de fórmulas y funciones para procesar un grupo de celdas.
+
+    Algunos de los programas de hojas de cálculo más conocidos son MS-Excel, Gnumeric, Google Sheets, etc.
+
+    Esta es una lista de actividades que se pueden realizar dentro de un software de hoja de cálculo:
+
+        Cálculos sencillos, como la suma, la media, el recuento, etc.
+        Preparación de tablas y gráficos sobre un grupo de datos relacionados.
+        Introducción de datos.
+        Formateo de datos.
+        Formateo de celdas.
+        Cálculos basados en comparaciones lógicas.
+
+*Sistemas de bases de datos:*
+
+    El software que gestiona el almacenamiento, la actualización y la recuperación de datos mediante la creación de bases de
+    datos se denomina sistema de gestión de bases de datos.
+
+    Algunas herramientas populares de gestión de bases de datos son MS-Access, MySQL, Oracle, FoxPro, etc.
+
+*Software de presentación:*
+
+    La herramienta de presentación permite al usuario mostrar información desglosada en pequeños fragmentos y dispuesta
+    en páginas denominadas diapositivas.
+    
+    Una serie de diapositivas que presentan una idea coherente a un público se denomina presentación.
+    
+    Las diapositivas pueden tener texto, imágenes, tablas, audio, video u otra información multimedia.
+    
+    MS-PowerPoint, OpenOffice Impress, Lotus Freelance, etc., son algunas de las herramientas de presentación más populares.
+
+*Herramientas de correo electrónico:*
+
+    Son herramientas que las empresas utilizan para crear, enviar, probar, optimizar e informar sobre sus campañas de
+    correo electrónico.
+    
+    Una de las herramientas de marketing por correo electrónico más comunes es un proveedor de servicios de correo electrónico,
+    o ESP, como Campaign Monitor. Campaign Monitor permite a las empresas crear hermosos correos electrónicos, crear recorridos
+    automatizados y entregar mensajes personalizados, que mejoran la relación con los clientes.
+
+Documentos, hojas de cálculo, presentaciones y notas: son los archivos que hacen que el trabajo funcione, que muestran un
+nuevo proyecto y el rendimiento de un espacio de tiempo, así como las ideas para el futuro. Son una parte tan crucial de
+la informática que, hoy en día, es difícil imaginar un ordenador sin un paquete ofimático. Durante años -incluso décadas-
+eso significaba que era difícil imaginar un ordenador sin Microsoft Office.
+
+Hoy en día, es fácil si lo intentamos. Office tiene más y mejores competidores que nunca, al mismo que cambian las características
+que se requiere de las herramientas ofimáticas, cosas como la colaboración, el acceso offline y online, y la compatibilidad
+con múltiples dispositivos.
+
+Microsoft Office 365, Google G Suite, Zoho Workplace, Apple iWork, Quip y LibreOffice son los principales actores de la
+suite ofimática actual.
+
+¿Qué conjunto de herramientas debería utilizar? Es posible que ya tenga una suite ofimática más antigua y se pregunte si
+debería pasarse a Office 365, o si las herramientas de G Suite de su cuenta de Gmail son suficientes. O tal vez esté
+tratando de decidir qué suite implementar en su equipo.
