@@ -4,7 +4,7 @@ El concepto de estudio de analítica de datos aplica para realizar diferentes fu
 lo que facilita un mayor dominio del ecosistema de datos y su respectivo análisis para interpretar, comunicar y tomar
 decisiones estratégicamente en la empresa.
 
-## Introducción
+## Introducción_semana_1
 
 Con el paso del tiempo, el ser humano ha visto la necesidad de desarrollar diferentes mecanismos de almacenamiento, debido
 al crecimiento de la cantidad de datos originados y a los diferentes desafíos que emergen de la administración de la
