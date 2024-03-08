@@ -176,7 +176,205 @@ examen.
 
     La suma de estos 8 valores es 167, por lo que la media es 167/8 = 20,875
 
+- La mediana
+
+Es la puntuación que se encuentra en el centro exacto del conjunto de valores. Una forma de calcular la mediana es enumerar
+todas las puntuaciones en orden numérico y, a continuación, localizar la puntuación en el centro de la muestra.
+
+    Por ejemplo, si hay 500 puntuaciones en la lista, la puntuación Nº 250 sería la mediana. Si ordenamos las 8
+    puntuaciones mostradas anteriormente, obtendremos:
+
+    15, 15, 15, 20, 20, 21, 25, 36
+
+    Hay 8 puntuaciones y las puntuaciones 4 y 5 representan el punto medio. Como ambas puntuaciones son 20, la mediana
+    es 20. Si las dos puntuaciones intermedias tuvieran valores diferentes, habría que interpolar para determinar la
+    mediana.
+
+- La moda
+
+Es el valor que aparece con más frecuencia en el conjunto de puntuaciones. Para determinar la moda, puede volver a ordenar
+las puntuaciones como se indica más arriba, y luego contar cada una de ellas. El valor más frecuente es la moda. En nuestro
+ejemplo, el valor 15 aparece tres veces y es el modelo. En algunas distribuciones hay más de un valor modal.
+
+    Por ejemplo, en una distribución bimodal hay dos valores que aparecen con mayor frecuencia. Observa que para el mismo
+    conjunto de 8 puntuaciones tenemos tres valores diferentes (20,875, 20 y 15) para la media, la mediana y la moda
+    respectivamente. Si la distribución es realmente normal (es decir, con forma de campana), la media, la mediana y la
+    moda son iguales entre sí.
+
+    La dispersión se refiere a la amplitud de los valores en torno a la tendencia central. Hay dos medidas comunes de
+    dispersión, el rango y la desviación estándar.
+    
+    El rango es simplemente el valor más alto menos el valor más bajo. En nuestra distribución de ejemplo, el valor más
+    alto es 36 y el más bajo es 15, por lo que el rango es 36 - 15 = 21.
+
+1.2 Metodos estadísticos
+
+Los métodos estadísticos son fórmulas matemáticas, modelos y técnicas que se utilizan en el análisis estadístico de los
+datos brutos de la investigación. La aplicación de métodos estadísticos extrae información de los datos de la investigación
+y proporciona diferentes formas de evaluar la solidez de los resultados de la investigación.
+
+Los datos cualitativos y cuantitativos se agrupan en procedimientos donde son utilizados en una investigación
+
+*Los datos cualitativos:*
+
+No son estadísticos y suelen ser no estructurados o semiestructurados. Estos datos no se miden necesariamente con números
+duros que se utilizan para elaborar gráficos y diagramas. En cambio, se clasifican en función de propiedades, atributos,
+etiquetas y otros identificadores.
+
+*Los datos cuantitativos:*
+
+Pueden utilizarse para formular la pregunta "por qué". Se trata de una investigación y a menudo está abierta hasta que se
+lleve a cabo una investigación más profunda. La generación de estos datos de la investigación cualitativa se utiliza para
+teorizaciones, interpretaciones, desarrollo de hipótesis y comprensiones iniciales.
+
+Para entender mejor los datos cualitativos, tomemos el ejemplo de una librería(estante para libros). Las siguientes
+características de esta librería determinan la calidad de la información que tenemos sobre ella:
+
+    - Fabricada en madera.
+    - Construida en Bogotá.
+    - Color marrón oscuro.
+    - Pomos bronce.
+    - Acabado liso.
+    - Fabricado en roble.
+
+Los datos cuantitativos son estadísticos y suelen ser de naturaleza estructurada; es decir, más rígidos y definidos. Este
+tipo de datos se mide mediante números y valores, lo que los convierte en un candidato más adecuado para el análisis de
+datos. Mientras que los datos cualitativos están abiertos a la exploración, son mucho más concisos y cerrados. Pueden
+utilizarse para formular las preguntas "cuánto" o "cuántos", seguidas de información concluyente.
+
+Los datos cuantitativos pueden generarse mediante:
+
+    - Pruebas.
+    - Experimentos.
+    - Encuestas.
+    - Informes de mercado.
+    - Métricas.
+
+De esta manera en el siguiente esquema se comparte los elementos esenciales del método estadístico:
+
+![elementos esenciales del método estadístico](image-4.png)
+
+Existen varios métodos y técnicas para realizar el análisis en función del sector y del objetivo del análisis, todos estos
+diversos métodos de análisis de datos se basan en gran medida en dos áreas fundamentales: los métodos cuantitativos y los
+métodos cualitativos en la investigación.
+
 ## Instrumentos de validación
+
+La prueba de validación de datos es un proceso que permite al usuario comprobar que los datos proporcionados, con los que
+trata, son válidos o completos. La prueba de validación de datos se encarga de validar los datos y las bases de datos con
+éxito a través de las transformaciones necesarias sin pérdida. También verifica que la base de datos se mantiene con datos
+específicos e incorrectos correctamente.
+
+En palabras sencillas, la validación de datos es una parte de las pruebas de bases de datos, en la que se comprueba que
+los datos introducidos son válidos o no de acuerdo con las condiciones de negocio previstas.
+
+El proceso de validación de datos consta de cuatro pasos importantes:
+
+    1. Plan de detalle
+    
+        Es el paso más crítico, para crear la hoja de ruta adecuada para la validación de datos. Se trata de la expectativa
+        general si hay un problema en los datos de origen, entonces ¿cómo resolver ese problema? Se trata de definir el
+        número de iteraciones necesarias durante la validación de los datos.
+    
+    2. Validación de la base de datos
+
+        Se encarga de garantizar que todos los datos aplicables están presentes desde el origen hasta el destino. Este
+        paso es responsable de determinar el número de registros, el tamaño de los datos, la comparación de la fuente y
+        el destino basado en el campo de datos.
+    
+    3. Validar el formato de los datos
+    
+        El objetivo principal es que los datos se entiendan claramente en el sistema de destino, los usuarios finales
+        deben entender claramente los datos si están cumpliendo las expectativas del negocio o no.
+    
+    4. Muestreo
+
+        Antes de probar el gran conjunto de datos, es necesario hacer un muestreo. Es esencial hacer pruebas con una pequeña
+        cantidad de datos y comprobar si los datos de la muestra cumplen con los requisitos de la empresa, en caso afirmativo,
+        solo se procederá con un gran conjunto de datos. De este modo, se reducirá la tasa de error de los datos y aumentará
+        la calidad y la precisión de los mismos.
+
+La validación de datos se realiza normalmente utilizando un lenguaje comercial. Por ejemplo, se puede crear un archivo XML
+(método de almacenamiento) con los nombres de las bases de datos de origen y destino, los nombres de las tablas y las columnas
+a comparar. El sistema de información elegido puede entonces tomar el XML como entrada y procesar los resultados. Sin embargo,
+esto puede requerir mucho tiempo, ya que hay que escribir los datos y verificar los resultados a mano. De esta manera se comparte
+a continuasion las herramientas empresariales y las herramientas de código abierto, que se anexan como opciones para la
+verificación de datos:
+
+    - Herramientas empresariales
+
+    Existen herramientas empresariales para realizar la validación de datos que pueden validar y reparar datos. Las herramientas
+    empresariales tienen la ventaja de ser más estables y seguras, pero pueden requerir infraestructura y son más costosas
+    que las opciones de código abierto.
+
+    - Herramientas de código abierto
+    
+    Las opciones de código abierto son rentables y, si están basadas en la nube, también pueden ahorrarle dinero en costos
+    de infraestructura. Pero siguen requiriendo un nivel de conocimiento y codificación manual para poder utilizarlas de
+    forma eficaz.
+
+Las pruebas se definen como la variedad de métodos, herramientas y prácticas que se utilizan para justificar que una
+aplicación de software funcione o no a diferentes niveles.
+
+Para realizar la validación de datos es clave si queremos tener datos fiables, consistentes, precisos y completos. Para
+conseguir pruebas de validación eficientes, fáciles de ejecutar y acordes con los requisitos actuales, es necesario contar
+con soluciones que las optimicen a través de diferentes opciones y automatizaciones, entre otras, la opción de validación
+de datos de informática.
+
+- Tipos de instrumentos de validación
+
+La validación requiere pruebas documentadas de que un proceso se ajusta sistemáticamente a los requisitos. Para ello,
+primero hay que obtener un proceso que se ajuste sistemáticamente a los requisitos y, a continuación, realizar estudios
+que lo demuestren. Las herramientas estadísticas pueden ayudar en ambas tareas.
+
+Hay muchos tipos de validación de datos. La mayoría de los procedimientos de validación de datos realizan una o varias de
+estas comprobaciones para garantizar que los datos son correctos antes de almacenarlos en la base de datos.
+
+Los tipos comunes de comprobaciones de validación de datos incluyen lo siguiente:
+
+1. Comprobación del tipo de datos
+
+    Una comprobación del tipo de datos confirma que los datos introducidos son del tipo correcto. Por ejemplo, un campo
+    puede aceptar sólo datos numéricos. Si este es el caso, cualquier dato que contenga otros caracteres, como letras o
+    símbolos especiales, será rechazado por el sistema.
+
+2. Comprobación de código
+
+    Una comprobación de código garantiza que un campo se selecciona de una lista válida de valores o sigue ciertas reglas
+    de formato. Por ejemplo, es más fácil comprobar que un código postal es válido cotejándolo con una lista de códigos
+    válidos. El mismo concepto puede aplicarse a otros elementos como los códigos de país y los códigos industriales.
+
+3. Comprobación de rangos
+
+    Una comprobación de rango verifica si los datos introducidos se encuentran dentro de un rango predefinido. Por ejemplo,
+    la latitud y la longitud se utilizan habitualmente en los datos geográficos. Un valor de latitud debe estar entre -90
+    y 90, mientras que un valor de longitud debe estar entre -180 y 180. Cualquier valor fuera de este rango no es válido.
+
+4. Comprobación del formato
+
+    Muchos tipos de datos siguen un formato predefinido. Un caso de uso común son las columnas de fecha que se almacenan
+    en un formato fijo como "AAAA-MM-DD" o "DD-MM-AAAA". Un procedimiento de validación de datos que garantice que las
+    fechas tienen el formato adecuado ayuda a mantener la coherencia entre los datos y a lo largo del tiempo.
+
+5. Comprobación de consistencia(coherencia)
+
+    Una comprobación de coherencia es un tipo de comprobación lógica que confirma que los datos se han introducido de forma
+    lógicamente coherente. Un ejemplo es comprobar si la fecha de entrega es posterior a la fecha de envío de un paquete.
+
+6. Comprobación de unicidad
+
+    Algunos datos, como las identificaciones o las direcciones de correo electrónico, son únicos por naturaleza. Una base
+    de datos debería tener entradas únicas en estos campos. Una comprobación de unicidad garantiza que un elemento no se
+    introduzca varias veces en una base de datos.
+
+De esta manera, el tipo de validación comprueba que los datos no sean demasiado cortos o largos y que los datos que se han
+introducido en un campo de un valor está dentro del rango especificado, como se resume a continuación:
+
+![alt text](image-5.png)
+
+La validación de datos proporciona al usuario diferentes tipos de comprobaciones, basadas en el tipo de datos de la celda,
+También permite al usuario definir comprobaciones de validación personalizadas utilizando fórmulas de Excel. La validación
+de datos se encuentra en la sección Herramientas de datos de la pestaña Datos de la cinta de Excel.
 
 ## Confidencialidad de la información
 
