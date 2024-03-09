@@ -436,6 +436,19 @@ encaminada a regular el uso de esa información y por tanto otro tipo de datos (
 exclusivamente personal o doméstico o los que se incluyen en una historia clínica) se encuentran excluidos de la aplicación
 de esta norma.
 
+Por su lado, la ley más vigente del derecho de Habeas Data ha sido emitida en el 2012. La Ley 1581 es de carácter general
+y se aplica en todos los espacios de recolección de datos de una persona y que, por lo tanto, no son financieros ni
+crediticios. Son usados por entidades de naturaleza pública o privada. En esta ley resume todo el funcionamiento de la
+información de una persona.
+
+Ninguna entidad puede hacer uso de esta información sin el permiso que el mismo dueño autorice de ella. La empresa o persona
+que sin la autorización debida realice uso de datos individuales recibirá una sanción y multa. Es por ello, que continuamente
+piden una aceptación una vez que se firma un contrato o se hace una compra.
+
+[habeas data, video](https://youtu.be/zDgCQeyHr7U)
+
 ## Técnicas de análisis de datos
+
+
 
 ## Proceso administrativo
