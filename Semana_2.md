@@ -538,6 +538,18 @@ y 600 terabytes para que los datos se consideren masivos, si no tenemos esta gra
 cuáles son las características que van a tener los datos masivos? se habla de las cuatro caracteristicas de los datos
 masivos que son: volumen, velocidad, variedad y velocidad.
 
-se refieren a volumen cuando los datos van creciendo de manera exponencial y los datos hoy en día son muy importantes pero es muy importante también saber que los datos no crecen de manera lineal van creciendo de manera exponencial y de esa manera los datos se van almacenando y se tienen que ir procesando entonces y la segunda es la las formas de datos de variedad la parte de la variedad tenemos diferentes tipos de datos diferentes tipos de datos y datos de audio de vídeo de localizaciones de sensores de correo electrónico de streaming entonces tenemos una gran cantidad de datos que se están manejando
+Volumen: cuando los datos van creciendo de manera exponencial, el crecimiento de los datos no es de manera lineal, sino
+de manera exponencial, teneniendo en cuenta que los datos hoy en día son muy importantes y por lo tanto estos se van
+almacenando y deben ser procesando en gran masa.
+
+Variedad: al tener diferentes tipos de datos diferentes, entiendase por tipos de datos: datos de audio, de vídeo, de
+localizaciones, de sensores, de correo electrónico, de streamingetc, tenemos una gran cantidad de tipos de datos que se
+están manejando
+
+velocidad: dada la importancia deñ análisis y de los datos del flujo de datos, esto debe ser analizado en tiempo real y
+esa velocidad de procesamiento debe ser en fracciones de segundo.
+
+Veracidad: hay que tener esa incertidumbre sobre los datos, no todo lo que llegue debe ser almacenado, hay que establecer
+criterios para lograr verificar la utilidad de los datos y si es relamente util dentor del contexto que estemos manejando.
 
 ## Proceso administrativo
