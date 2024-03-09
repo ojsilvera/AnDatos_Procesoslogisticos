@@ -553,3 +553,9 @@ Veracidad: hay que tener esa incertidumbre sobre los datos, no todo lo que llegu
 criterios para lograr verificar la utilidad de los datos y si es relamente util dentor del contexto que estemos manejando.
 
 ## Proceso administrativo
+
+Se conoce como proceso administrativo aquel que es utilizado en la gestión de la misma actividad, a través de sus 4 fases: planear, controlar, organizar y dirigir.
+
+Aunque la mayoría de los puestos y departamentos de una empresa tienen tareas específicas basadas en conocimientos particulares, experiencia o necesidades de la empresa, los directivos pueden tener un conjunto de responsabilidades más amplio y complejo. Más que un conocimiento especializado, la gestión requiere la capacidad de sortear numerosos retos procedimentales, estructurales e interpersonales en el proceso de guiar a su equipo hacia la consecución de diversos objetivos.
+
+Aunque Henri Fayol (1916) identificó originalmente cinco elementos, en la actualidad existen cuatro funciones de gestión comúnmente aceptadas que engloban estas habilidades necesarias: planificar, organizar, dirigir y controlar. Considere lo que implica cada una de estas funciones, así como el aspecto de cada una de ellas en acción, a continuación:
