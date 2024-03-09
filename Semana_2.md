@@ -509,4 +509,35 @@ se debe tener cuidado en la evaluación de diferentes modelos con métricas de p
 modelo se implementa, se debe informar de la evaluación y los resultados. Un error común en la modelización predictiva es
 limitarse a implementar el modelo y no medir nunca su rendimiento.
 
+- Conceptos de tecnologías y características para el manejo de datos masivos
+
+A continuacion se definen conceptos de tecnologías y características para el manejo de datos masivos:
+
+Datos masivos todo lo que nosotros generamos, todo el tráfico que se está generando a través de la red se le conoce como
+datos masivos en términos simples, datos masivos podemos verlo como datos que son tan grandes rápidos y complejos y que
+se vuelve imposibles de guardarlos de manera tradicional.
+
+comúnmente nosotros como guardamos la información? use desarrolla un pequeño sistema y tienen una Base de datos, donde se
+almacenan pero, ahora imagínese cómo pueden guardar todos los clips o todas las acciones que realicen en a través de
+facebook? no es posible utilizar una base de datos tradicional, si yo di dos clics, tres clics, esto se realiza en cuestión
+de segundos y de manera masiva, qué tipo de de base de datos voy a utilizar? o si tenemos un sensor en un vehiculo autónomo,
+como el modelo de google o tesla, que sucederia al recibir todo esos datos? como los vamos a almacenar? porque con estos
+sensores se envía información de manera constante, para todos esos datos es necesario, recibir y procesar antes que sea
+posible almacenarse. En un proceso de adquisicion de datos comunes, rellenamos los datos a través de un formulario le
+damos clic en guardar y se almacena y después se pueden procesar, mientras que los datos masivos tienen que ser tratados
+para que puedan tener información en tiempo real, en el caso de vehiculo autónomo que no puedan procesar la información
+en tiempo real ocasionaria una catastrofe que involucra vidas humanas.
+
+Ahora los datos masivos es imposibles, gruardarlos, procesarlos y analizarlos con aplicaciones tradicionales de analisis
+de datos debido a su gran velocidad y volumen de informacion, por lo tanto es neceario herramientas especializadas para
+este fin.
+
+cuando se considera que un dato es masivo? de acuerdo a pauls y psicopaulos de ibm estableció que se necesita entre 200
+y 600 terabytes para que los datos se consideren masivos, si no tenemos esta gran cantidad de datos no podemos considerarlos
+
+cuáles son las características que van a tener los datos masivos? se habla de las cuatro caracteristicas de los datos
+masivos que son: volumen, velocidad, variedad y velocidad.
+
+se refieren a volumen cuando los datos van creciendo de manera exponencial y los datos hoy en día son muy importantes pero es muy importante también saber que los datos no crecen de manera lineal van creciendo de manera exponencial y de esa manera los datos se van almacenando y se tienen que ir procesando entonces y la segunda es la las formas de datos de variedad la parte de la variedad tenemos diferentes tipos de datos diferentes tipos de datos y datos de audio de vídeo de localizaciones de sensores de correo electrónico de streaming entonces tenemos una gran cantidad de datos que se están manejando
+
 ## Proceso administrativo
