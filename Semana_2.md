@@ -378,6 +378,64 @@ de datos se encuentra en la sección Herramientas de datos de la pestaña Datos 
 
 ## Confidencialidad de la información
 
+Por información confidencial se entiende la comunicación personal o la información relacionada con la actividad de una
+organización que es desconocida para el público y solo se comparte entre unas pocas personas. Esta información llega a
+manos de las diferentes entidades a través de su trabajo.
+
+Algunos ejemplos comunes de información confidencial son, entre otros:
+
+1. Documentos marcados como confidenciales.
+2. Listas y datos de clientes.
+3. Información financiera no publicada.
+4. Propiedad intelectual como patententes, formulas y nuevas tecnologias
+5. Datos de partes externas.
+6. Información sobre el negocio y los productos, como los precios, el marketing y otras estrategias.
+7. objetivos y previciones no publicados, marcados como confidenciales.
+
+Todas las empresas disponen de datos personales de su personal, usuarios, miembros, etc., que solo se utilizarán para los
+fines para los que fueron recogidos y no se divulgarán a nadie fuera de la organización sin permiso previo de acuerdo con
+la Ley de Protección de Datos en cada país.
+
+Es preciso aclarar las siguientes definiciones establecidas en la Ley 1581 de 2012:
+
+    Titular de la información: “Persona natural cuyos datos personales sean objeto de tratamiento”.
+
+    Responsable del tratamiento: “Persona natural o jurídica, pública o privada, que por sí misma o en asocio con otros,
+    decida sobre la base de datos y/o el tratamiento de los datos”.
+
+    Encargado del tratamiento: “Persona natural o jurídica, pública o privada, que por sí misma o en asocio con otros,
+    realice el tratamiento de datos personales por cuenta del responsable del tratamiento.”
+
+*Nota: La Ley 1581 de 2012 que constituye el marco general de la protección de los datos personales en Colombia.*
+
+- 3.1 Normativa
+
+La autorización especial de datos personales sensibles refiere a la implementación y uso de los diferentes medios disponibles
+para la obtención de la autorización de información de los titulares; es decir, el manejo de los datos sensibles; no obstante,
+la Ley 1581 de 2012, los decretos y normas reglamentarias, faculta el manejo de los datos, por tanto, no se tiene obligatoriedad
+de otorgar autorización para el tratamiento de los datos sensibles.
+
+![Ley de proteccion de datos sensibles, imagen](image-6.png)
+
+[Profundizacion ley de datos personales]([https](https://youtu.be/bvAH9ppBbbE)://)
+
+- 3.2 Habeas Data
+
+El Derecho de Habeas Data se basa en Colombia en autorizar a los habitantes residentes a actualizar, conocer y rectificar
+toda la información que tengan las distintas entidades y bases de datos del territorio nacional. Nació como parte importante
+de los artículos 15 y 20 de la Constitución Política. Más adelante, fue desarrollado como derecho autosuficiente y sin
+dependencia, que disfrutan todos los colombianos.
+
+Es desde 1995 que ya se comienza a tener esta excepción, no obstante, en el 2008 se crea la primera Ley de Habeas Data,
+la 1266, la cual tiene un carácter particular que solo aplica para la información financiera. Los bancos usan esta información
+para evaluar el peligro crediticio de una persona, como hábitos de pago, créditos tomados antes y sueldo o ingresos promedios.
+
+La Ley 1266 de 2008, también conocida como Ley de Habeas Data, se aplica a todos los datos personales financieros, crediticios,
+comerciales y de servicios registrados en un banco de datos. En este sentido, la aplicación de la Ley 1266 de 2008 está
+encaminada a regular el uso de esa información y por tanto otro tipo de datos (por ejemplo, aquellos mantenidos en un ámbito
+exclusivamente personal o doméstico o los que se incluyen en una historia clínica) se encuentran excluidos de la aplicación
+de esta norma.
+
 ## Técnicas de análisis de datos
 
 ## Proceso administrativo
