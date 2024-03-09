@@ -653,3 +653,68 @@ ejecutivos pueden considerar muchas opciones posibles. Al final, se espera que l
 una estrategia que tenga más probabilidades de producir resultados positivos (normalmente definidos como la mejora de los
 resultados de la empresa) y que pueda ejecutarse de forma rentable con una alta probabilidad de éxito, evitando al mismo
 tiempo un riesgo financiero indebido.
+
+Normalmente se considera que el desarrollo y la ejecución de la planificación estratégica se realizan en tres pasos
+fundamentales:
+
+1. Formulación de la estrategia:
+
+    Es el proceso de determinar y establecer las metas, la misión y los objetivos de una organización, e identificar los
+    cursos o planes de acción apropiados y mejores entre todas las estrategias alternativas disponibles para alcanzarlos.
+
+    Las estrategias empresariales tienen efectos a largo plazo sobre el éxito de la organización. Es común que la
+    formulación de estrategias sea implementada por la alta dirección, debido a que es el área que suele estar autorizada
+    para asignar los recursos necesarios para su aplicación.
+
+    La organización prevé unos resultados concretos, que solo podrá alcanzar siguiendo una ruta específica, o actuando
+    dentro de los confines o parámetros de un marco específico. Esa ruta o marco se creará mediante la formulación de la
+    estrategia.
+
+2. Implementación de la estrategia:
+
+    Una vez formulada la estrategia, la empresa debe establecer objetivos específicos o metas relacionadas con la puesta
+    en marcha de la estrategia y asignar recursos para su ejecución. El éxito de la fase de aplicación suele depender de
+    la calidad de la comunicación de la estrategia elegida por parte de la dirección de la empresa y de la aceptación por
+    parte de todos los interesados y el deseo de ponerla en práctica.
+
+    La aplicación efectiva de la estrategia implica el desarrollo de una estructura sólida o marco, para la aplicación de
+    la estrategia, la maximización de la utilización de los recursos pertinentes y la reorientación de los esfuerzos de
+    marketing en línea con las metas y objetivos de la estrategia.
+
+3. Evaluación de la estrategia
+
+    La evaluación estratégica se realiza para comprender la organización empresarial existente. Hay dos tipos de esta
+    evaluación. Juntos forman una evaluación estratégica completa de la organización empresarial.
+
+    *Evaluación de la organización empresarial/estrategia actual:* esta evaluación se centra en comprender el modelo
+    empresarial actual, el sistema de valores, las ventajas actuales, las competencias, la cultura, los factores dinámicos
+    y las tendencias, los patrones, la trayectoria actual, las incongruencias, los conflictos, las amenazas, los problemas
+    y las oportunidades. Esta evaluación suele dar lugar a un impulso de cambio, genera ideas y pensamiento estratégico
+    que se aplicarán para producir la estrategia y la innovación del diseño empresarial. La investigación integral se
+    lleva a cabo con este objetivo.
+
+    *Evaluación de las competencias de gestión estratégica:* esta evaluación se centra en la competencia de gestión
+    estratégica, la competencia de la organización empresarial para lograr y mantener un reconocimiento en el mercado; el
+    evaluar un plan para mejorar el servicio al comprador, una compañía puede identificar que requiere implementar un nuevo
+    sistema tecnológico de administración para mantener las relaciones con los consumidores y clientes y lograr la gestión
+    stratégica deseadas en las relaciones con los consumidores.
+
+5.2 Proyección de mercado
+
+Una proyección de mercado es un componente esencial de un análisis de mercado, proyecta las cifras, características y
+tendencias futuras de su mercado objetivo, de esta manera el análisis estándar muestra el número proyectado de clientes
+potenciales dividido en segmentos, lo que evidencia un ejemplo de previsión de mercado simple el cual define dos segmentos
+de mercado objetivo y proyecta los clientes potenciales en cada uno de esos segmentos por años.
+
+Una proyección de mercado debe someterse siempre a una comprobación de la realidad. Cuando se cree que se tiene una
+previsión, hay que encontrar la manera de comprobar la realidad.
+
+    En este caso, si el mercado total vale una estimación, podría estimar las ventas de todos los competidores y ver si
+    las dos cifras se relacionan entre sí.
+
+    En un mercado internacional, podría comprobar las cifras de producción e importación y exportación para ver si sus
+    estimaciones de envíos anuales parecen estar en el mismo rango general que las cifras publicadas.
+    
+    Puede consultar a los proveedores que vendieron productos a este mercado en un año determinado para ver si sus resultados
+    coinciden con su previsión y buscar datos macroeconómicos para confirmar el tamaño relativo de este mercado en
+    comparación con otros mercados de características similares.
