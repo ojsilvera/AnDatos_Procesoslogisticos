@@ -554,8 +554,102 @@ criterios para lograr verificar la utilidad de los datos y si es relamente util 
 
 ## Proceso administrativo
 
-Se conoce como proceso administrativo aquel que es utilizado en la gestión de la misma actividad, a través de sus 4 fases: planear, controlar, organizar y dirigir.
+Se conoce como proceso administrativo aquel que es utilizado en la gestión de la misma actividad, a través de sus 4
+fases:
 
-Aunque la mayoría de los puestos y departamentos de una empresa tienen tareas específicas basadas en conocimientos particulares, experiencia o necesidades de la empresa, los directivos pueden tener un conjunto de responsabilidades más amplio y complejo. Más que un conocimiento especializado, la gestión requiere la capacidad de sortear numerosos retos procedimentales, estructurales e interpersonales en el proceso de guiar a su equipo hacia la consecución de diversos objetivos.
+    planear, controlar, organizar y dirigir.
 
-Aunque Henri Fayol (1916) identificó originalmente cinco elementos, en la actualidad existen cuatro funciones de gestión comúnmente aceptadas que engloban estas habilidades necesarias: planificar, organizar, dirigir y controlar. Considere lo que implica cada una de estas funciones, así como el aspecto de cada una de ellas en acción, a continuación:
+Aunque la mayoría de los puestos y departamentos de una empresa tienen tareas específicas basadas en conocimientos particulares,
+experiencia o necesidades de la empresa, los directivos pueden tener un conjunto de responsabilidades más amplio y complejo,
+Más que un conocimiento especializado, la gestión requiere la capacidad de sortear numerosos retos procedimentales,
+estructurales e interpersonales en el proceso de guiar a su equipo hacia la consecución de diversos objetivos.
+
+Aunque Henri Fayol (1916) identificó originalmente cinco elementos, en la actualidad existen cuatro funciones de gestión
+comúnmente aceptadas que engloban estas habilidades necesarias:
+
+    planificar, organizar, dirigir y controlar.
+
+Considere lo que implica cada una de estas funciones, así como el aspecto de cada una de ellas en acción, a continuación:
+
+1. Planificación
+
+    Una de las principales funciones de un directivo es crear un plan para alcanzar las metas y objetivos de la empresa,
+    Esto implica la asignación de recursos a los empleados y la delegación de responsabilidades, así como el establecimiento
+    de plazos y normas realistas para su cumplimiento.
+
+    La planificación requiere que los directivos comprueben continuamente el progreso del equipo para hacer pequeños ajuste
+     cuando sea necesario, sin dejar de mantener una imagen clara de los objetivos más amplios de la empresa.
+
+    Gran parte de la función de planificación consiste en trabajar de forma independiente para determinar qué responsabilidades
+    deben asignarse a cada empleado, establecer niveles de prioridad para determinadas tareas y crear calendarios. Sin embargo,
+    la comunicación también desempeña un papel importante.
+
+    Por ejemplo, los directivos se ocupan de la planificación cuando se reúnen con la dirección de la empresa para hablar
+    de los objetivos a corto y largo plazo, y cuando comunican los detalles de un nuevo proyecto a su equipo o se reúnen
+    periódicamente para asegurarse de que los objetivos individuales se cumplen a tiempo.
+
+2. Organizar
+
+    Además de la planificación, la capacidad organizativa de un directivo puede ayudar a garantizar el buen funcionamiento
+    de una empresa o unidad departamental. Desde el establecimiento de procesos y estructuras internas hasta saber qué
+    empleados o equipos son los más adecuados para tareas específicas, mantener a todos y todo organizado a lo largo de las
+    operaciones diarias son funciones importantes de la gestión.
+
+    Sin embargo, la organización no consiste solo en delegar tareas de forma eficiente y asegurarse de que los empleados
+    tienen lo que necesitan para realizar sus tareas. Los directivos también deben ser capaz de reorganizarse en respuesta
+    a nuevos retos.
+
+    Esto puede traducirse en la práctica en un ligero ajuste del calendario de un proyecto o en la reasignación de tareas
+    de un equipo a otro. O bien, puede significar una alteración significativa de la estructura interna de un equipo y de
+    sus funciones en respuesta al crecimiento de la empresa.
+
+3. Dirigir
+
+    Los directivos deben sentirse cómodos y seguros al mando de las tareas diarias de los miembros de su equipo, así como
+    durante los periodos de cambios o retos importantes. Esto implica proyectar un fuerte sentido de la dirección y el
+    liderazgo a la hora de establecer objetivos y comunicar nuevos procesos, productos y servicios, o la política interna.
+
+    El liderazgo puede manifestarse de diversas maneras, como por ejemplo reconociendo cuándo los empleados necesitan un
+    estímulo extra de refuerzo y elogio o manejando los conflictos entre los miembros del equipo de forma justa y decisiva.
+
+    A menudo, los directivos pueden actuar como líderes incluso durante las pequeñas interacciones personales, modelando
+    cualidades de apoyo, estímulo y motivación.
+
+4. Controlar
+
+    Para garantizar que todas las funciones anteriores contribuyen al éxito de la empresa, los directivos deben supervisar
+    constantemente el rendimiento de los empleados, la calidad del trabajo y la eficacia y fiabilidad de los proyectos
+    realizados.
+
+    El control (y el control de calidad) en la gestión consiste en asegurarse de que los objetivos finales de la empresa
+    se están cumpliendo adecuadamente, así como en realizar los cambios necesarios cuando no es así.
+
+    Aunque algunas de las funciones mencionadas de la gestión pueden extenderse lógicamente a partir de la experiencia y
+    las habilidades desarrolladas en los puestos de entrada, la formación y la educación formales pueden aportar ventajas.
+
+    Por ejemplo, cursar una especialización en administración de empresas puede ofrecer la oportunidad de estudiar las
+    filosofías y las mejores prácticas de gestión para ayudar a prepararse para ocupar puestos de dirección tras la graduación.
+
+5.1 Planeación Estratégica
+
+[Planeacion estrategica, video]([https://www.youtube.com/watch?v=1yAOUdaaYxc])
+
+La concepción de cualquier presupuesto consiste en anticiparse a las implicaciones futuras, así que para elaborar uno lo
+más importante es definir los planes de la empresa en el mediano y largo plazo, así como las acciones y sus posibles
+consecuencias dentro de este escenario, con una estrategia clara que indique cuáles serán los aspectos a priorizar.
+
+El presupuesto tendrá una distribución determinada, ya que se trata de una pseudo cuantificación de los planes organizacionales
+a futuro. Para llevarla a cabo es importante que se involucren los directivos de todas las áreas que implementarán las
+medidas, así la planeación estratégica también funcionará como medio de comunicación de abajo hacia arriba atravesando
+todos los niveles de la empresa, debido a que directivos requerirán de los operarios para aplicar las estrategias propuestas.
+
+el esquema de planeación debe tener presente en primer lugar la razón de ser de la compañía, luego posicionar dentro de
+las condiciones del ambiente en la que lleva a cabo su operación y de manera simultánea se evalúan las fortalezas y debilidades
+a nivel interno de ellos deriban una serie de objetivos a alcanzar a través de acciones claras a aplicar.
+
+El proceso de planificación estratégica requiere una reflexión y una planificación considerables por parte de la alta
+dirección de una empresa. Antes de decidir por un plan de acción y determinar cómo aplicarlo estratégicamente, los
+ejecutivos pueden considerar muchas opciones posibles. Al final, se espera que la dirección de la empresa se decante por
+una estrategia que tenga más probabilidades de producir resultados positivos (normalmente definidos como la mejora de los
+resultados de la empresa) y que pueda ejecutarse de forma rentable con una alta probabilidad de éxito, evitando al mismo
+tiempo un riesgo financiero indebido.
