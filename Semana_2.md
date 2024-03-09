@@ -449,6 +449,54 @@ piden una aceptación una vez que se firma un contrato o se hace una compra.
 
 ## Técnicas de análisis de datos
 
+Los métodos y técnicas de análisis de datos son útiles para encontrar información en los datos, como métricas, hechos y
+cifras. Los dos métodos principales de análisis de datos son las técnicas de análisis de datos cualitativos y las técnicas
+de análisis de datos cuantitativos.
 
+Estas técnicas de análisis de datos pueden utilizarse de forma independiente o en combinación con la otra para ayudar a
+los líderes empresariales y a los responsables de la toma de decisiones a adquirir conocimientos empresariales a partir
+de diferentes tipos de datos.
+
+Análisis de datos cuantitativos
+
+    El análisis de datos cuantitativos implica trabajar con variables numéricas, incluyendo estadísticas, porcentajes,
+    cálculos, mediciones y otros datos, ya que la naturaleza de los datos cuantitativos es numérica. Las técnicas de
+    análisis de datos cuantitativos suelen incluir el trabajo con algoritmos, herramientas de análisis matemático y
+    programas informáticos para manipular los datos y descubrir ideas que revelen el valor empresarial.
+    
+    Por ejemplo, un analista de datos financieros puede cambiar una o más variables en el balance de Excel de una empresa
+    para proyectar los futuros resultados financieros de su empleador. El análisis de datos cuantitativos también puede
+    utilizarse para evaluar los datos del mercado y ayudar a una empresa a fijar un precio competitivo para su nuevo
+    producto.
+
+Análisis de datos cualitativos
+
+    Los datos cualitativos describen información que no suele ser numérica. El enfoque del análisis de datos cualitativos
+    implica trabajar con identificadores únicos, como etiquetas y propiedades, y variables categóricas, como estadísticas,
+    porcentajes y medidas.
+    
+    En el análisis de datos cualitativos, un analista de datos puede utilizar enfoques de observación directa o participante,
+    realizar entrevistas, organizar grupos de discusión o revisar documentos y artefactos.
+    
+    Por ejemplo, las técnicas de análisis cualitativo de datos suelen formar parte del proceso de desarrollo de software,
+    Los testers de software registran los fallos que van desde errores funcionales hasta faltas de ortografía para determinar
+    la gravedad de los mismos en una escala predeterminada: de crítico a bajo. Cuando se recogen, estos datos proporcionan
+    información que puede ayudar a mejorar el producto final.
+
+Metodología datos masivos
+
+En términos de metodología, la analítica de Big Data difiere significativamente del enfoque estadístico tradicional del
+diseño experimental, así la analítica comienza con los datos que modelamos de forma que expliquen una respuesta para
+cumplir con el objetivo de este enfoque donde se busca predecir el comportamiento de la respuesta o entender cómo se
+relacionan las variables de entrada.
+
+Normalmente, en los diseños experimentales estadísticos, se desarrolla un experimento y se obtienen datos como resultado.
+Esto permite generar datos de forma que puedan ser utilizados por un modelo estadístico, donde se cumplen ciertos supuestos
+como la independencia, la normalidad y la aleatoriedad.
+
+    En el análisis de big data, se nos presentan los datos. No podemos diseñar un experimento que cumpla con nuestro modelo
+    estadístico favorito. En las aplicaciones de analítica a gran escala, se necesita una gran cantidad de trabajo,
+    normalmente el 80 % del esfuerzo es solo para limpiar los datos, de modo que puedan ser utilizados por un modelo de
+    aprendizaje automático.
 
 ## Proceso administrativo
