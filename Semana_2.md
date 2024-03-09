@@ -499,4 +499,14 @@ como la independencia, la normalidad y la aleatoriedad.
     normalmente el 80 % del esfuerzo es solo para limpiar los datos, de modo que puedan ser utilizados por un modelo de
     aprendizaje automático.
 
+No hay una metodología única a seguir en las aplicaciones reales a gran escala. Por lo general, una vez definido el problema
+de negocio, se necesita una etapa de investigación para diseñar la metodología a utilizar. Sin embargo, es relevante mencionar
+unas pautas generales que se aplican a casi todos los problemas.
+
+Una de las tareas más importantes en el análisis de big data es el modelado estadístico; es decir, los problemas de clasificación
+o regresión supervisados y no supervisados. Una vez que los datos se han limpiado y pre-procesado, disponibles para el modelado,
+se debe tener cuidado en la evaluación de diferentes modelos con métricas de pérdida razonables y luego, una vez que el
+modelo se implementa, se debe informar de la evaluación y los resultados. Un error común en la modelización predictiva es
+limitarse a implementar el modelo y no medir nunca su rendimiento.
+
 ## Proceso administrativo
